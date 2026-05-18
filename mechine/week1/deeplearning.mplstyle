@@ -1,0 +1,15 @@
+# Lightweight DeepLearning.AI-like matplotlib style for local notebooks
+figure.figsize: 8, 5
+figure.dpi: 100
+font.size: 12
+axes.titlesize: 14
+axes.labelsize: 12
+xtick.labelsize: 10
+ytick.labelsize: 10
+legend.fontsize: 10
+axes.grid: True
+grid.alpha: 0.25
+lines.linewidth: 2
+lines.markersize: 6
+axes.spines.top: False
+axes.spines.right: False
